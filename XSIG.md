@@ -54,12 +54,18 @@
    * https://www.tensorflow.org/tutorials/audio/music_generation
    * https://magenta.tensorflow.org/gansynth
    * [https://towardsdatascience.com/generating-music-using-deep-learning-cb5843a9d55e](https://towardsdatascience.com/generating-music-using-deep-learning-cb5843a9d55e): A fun practice
+   * [https://towardsdatascience.com/music-generation-through-deep-neural-networks-21d7bd81496e](https://towardsdatascience.com/music-generation-through-deep-neural-networks-21d7bd81496e): Another practice
+   * [https://medium.com/mlearning-ai/music-generation-using-deep-learning-49692851c57c](https://medium.com/mlearning-ai/music-generation-using-deep-learning-49692851c57c): Another practice.
+   * [https://www.abcjs.net/abcjs-editor.html](https://www.abcjs.net/abcjs-editor.html): ABC Notation player platform
 6. Resources:
    * [https://arxiv.org/abs/2105.09046](https://arxiv.org/abs/2105.09046): This paper talks about using LSTMNN in music generation
    * [https://paperswithcode.com/task/music-generation](https://paperswithcode.com/task/music-generation): The collection of state-of-the-art papers, code, database, and benchmarks regarding the field AMG (Automatic Music Generation)
    * [https://paperswithcode.com/paper/deep-learning-techniques-for-music-generation](https://paperswithcode.com/paper/deep-learning-techniques-for-music-generation): A literature review of different ways of using deep learning (deep artificial neural networks) to generate musical content. The code of this paper is [https://github.com/napulen/MiniBach](https://github.com/napulen/MiniBach)
    * [https://www.catalyzex.com/s/music%20generation](https://www.catalyzex.com/s/music%20generation): Collection of music generation resources (Paper/model/code).
    * [https://github.com/umbrellabeach/music-generation-with-DL](https://github.com/umbrellabeach/music-generation-with-DL): Another collection of music generation resources.
+   * [https://www.frontiersin.org/articles/10.3389/frai.2020.00014/full](https://www.frontiersin.org/articles/10.3389/frai.2020.00014/full): Computation creativity
+   * [https://arxiv.org/pdf/1809.04281v3.pdf](https://arxiv.org/pdf/1809.04281v3.pdf): Music Transformer
+   * This time with feeling: [https://arxiv.org/abs/1808.03715](https://arxiv.org/abs/1808.03715): Contains dataset and MIDI data representation and preprocessing
 
 ## 3. Interative audio (or midi) generator based on human action captured in image or video:
 * This is a fusion of `[Action Recognition task]` and `[Automatic Music Generation with Features task]`

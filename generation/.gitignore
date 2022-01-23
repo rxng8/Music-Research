@@ -1,0 +1,4 @@
+dataset/
+history/
+weights/*
+__pycache__
